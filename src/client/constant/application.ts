@@ -1,0 +1,4 @@
+export const APPLICATION = {
+  HEADER_HEIGHT: 60,
+  MINIMUM_WIDTH: 390,
+};
