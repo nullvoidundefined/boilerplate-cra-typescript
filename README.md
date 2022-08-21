@@ -1,4 +1,4 @@
-# Getting Started with the location project
+# Getting Started with the boilerplate-cra-typescript project
 
 1. Open your terminal
 2. Enter `npm install`
